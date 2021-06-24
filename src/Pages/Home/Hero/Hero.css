@@ -1,0 +1,33 @@
+.jumbotron {
+  padding-top: 100px;
+  padding-bottom: 200px;
+  align-items: center;
+}
+
+.heroText {
+  font-weight: 700;
+  color: #fff;
+  margin-left: 20px;
+}
+
+.subText {
+  font-weight: 700;
+  color: #fff;
+}
+
+.myPhoto {
+  max-width: 75%;
+  height: auto;
+  overflow: hidden;
+  padding: 5px;
+  border: 4px solid #999999;
+  background-color: #edd382;
+}
+
+.lead {
+  padding-left: 20px;
+}
+
+.paragraphBreak {
+  padding-top: 25px;
+}

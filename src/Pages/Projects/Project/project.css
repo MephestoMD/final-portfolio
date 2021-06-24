@@ -1,0 +1,38 @@
+.projectImage {
+  width: auto;
+  height: 150px;
+}
+
+.projectCard {
+  box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px,
+    rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px,
+    rgba(0, 0, 0, 0.09) 0px 32px 16px;
+  /* border: 6px solid #29335c !important; */
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.projectsDiv {
+  background-color: #29335c;
+}
+
+.header-text {
+  padding-top: 20px;
+  color: #fff;
+  font-size: 4rem;
+  font-weight: 700;
+}
+
+.card-body {
+  color: #fff;
+  font-weight: 600;
+  background-color: #29335c;
+}
+
+.btn {
+  color: #fff;
+}
+
+.mainContainer {
+  padding-bottom: 20px;
+}

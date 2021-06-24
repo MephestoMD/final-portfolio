@@ -1,0 +1,15 @@
+.footer-text {
+  color: #29335c;
+  font-weight: 600;
+  border: none;
+}
+
+#footer {
+  background-color: #edd382;
+}
+
+.footerList .footer-item {
+  border: none;
+  background-color: #edd382;
+  font-size: 1.25rem;
+}

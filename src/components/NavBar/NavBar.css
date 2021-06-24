@@ -1,0 +1,52 @@
+.nav-custom {
+  background-color: #29335c;
+  border-bottom: 5px solid #edd382;
+}
+
+.brand-text {
+  color: #fff;
+  font-weight: 700;
+  font-size: 2rem;
+  padding-left: 20px;
+  position: relative;
+  display: inline-block;
+  font-weight: 700;
+  overflow: hidden;
+  padding: 0px 15px 0px 15px;
+  background: linear-gradient(to right, #edd382, #edd382 50%, #fff 50%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-size: 200% 100%;
+  background-position: 100%;
+  transition: background-position 450ms ease;
+}
+
+.brand-text:hover {
+  background-position: 0 100%;
+}
+
+.link-text {
+  color: #fff;
+  font-size: 1.5rem;
+  position: relative;
+  display: inline-block;
+  font-weight: 700;
+  overflow: hidden;
+  padding: 0px 15px 0px 15px;
+  background: linear-gradient(to right, #edd382, #edd382 50%, #fff 50%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-size: 200% 100%;
+  background-position: 100%;
+  transition: background-position 450ms ease;
+}
+
+.link-text:hover {
+  background-position: 0 100%;
+}
+
+.navbar-toggler-icon {
+  border-color: black;
+}
