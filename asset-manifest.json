@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/final-portfolio/static/css/main.a1548e52.chunk.css",
+    "main.js": "/final-portfolio/static/js/main.6e7d9f1d.chunk.js",
+    "main.js.map": "/final-portfolio/static/js/main.6e7d9f1d.chunk.js.map",
+    "runtime-main.js": "/final-portfolio/static/js/runtime-main.6a6a3af7.js",
+    "runtime-main.js.map": "/final-portfolio/static/js/runtime-main.6a6a3af7.js.map",
+    "static/css/2.362008a1.chunk.css": "/final-portfolio/static/css/2.362008a1.chunk.css",
+    "static/js/2.8b60e37f.chunk.js": "/final-portfolio/static/js/2.8b60e37f.chunk.js",
+    "static/js/2.8b60e37f.chunk.js.map": "/final-portfolio/static/js/2.8b60e37f.chunk.js.map",
+    "static/js/3.091eabdb.chunk.js": "/final-portfolio/static/js/3.091eabdb.chunk.js",
+    "static/js/3.091eabdb.chunk.js.map": "/final-portfolio/static/js/3.091eabdb.chunk.js.map",
+    "index.html": "/final-portfolio/index.html",
+    "static/css/2.362008a1.chunk.css.map": "/final-portfolio/static/css/2.362008a1.chunk.css.map",
+    "static/css/main.a1548e52.chunk.css.map": "/final-portfolio/static/css/main.a1548e52.chunk.css.map",
+    "static/js/2.8b60e37f.chunk.js.LICENSE.txt": "/final-portfolio/static/js/2.8b60e37f.chunk.js.LICENSE.txt",
+    "static/media/Maxson_Green_Resume.47971565.pdf": "/final-portfolio/static/media/Maxson_Green_Resume.47971565.pdf",
+    "static/media/Me.244bbfb7.jpg": "/final-portfolio/static/media/Me.244bbfb7.jpg",
+    "static/media/employee_directory.bbd50013.PNG": "/final-portfolio/static/media/employee_directory.bbd50013.PNG",
+    "static/media/employee_tracker.d2767924.PNG": "/final-portfolio/static/media/employee_tracker.d2767924.PNG",
+    "static/media/fitness_tracker.0931100c.PNG": "/final-portfolio/static/media/fitness_tracker.0931100c.PNG",
+    "static/media/font-awesome.css": "/final-portfolio/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/google_books.57b71c65.PNG": "/final-portfolio/static/media/google_books.57b71c65.PNG",
+    "static/media/napkin_bets.f5d9737a.jpg": "/final-portfolio/static/media/napkin_bets.f5d9737a.jpg",
+    "static/media/rubix.36460086.jpg": "/final-portfolio/static/media/rubix.36460086.jpg",
+    "static/media/tech_blogger.05723970.PNG": "/final-portfolio/static/media/tech_blogger.05723970.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a6a3af7.js",
+    "static/css/2.362008a1.chunk.css",
+    "static/js/2.8b60e37f.chunk.js",
+    "static/css/main.a1548e52.chunk.css",
+    "static/js/main.6e7d9f1d.chunk.js"
+  ]
+}
